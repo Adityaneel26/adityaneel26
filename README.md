@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1200" height="300" alt="Harshrajsinh Raulji Banner" src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183" />
+  <img src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183" alt="Aditya Neel Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Aditya Neel</h1>
 <h3 align="center">Java & MERN Stack Developer | Full Stack Learner 🚀</h3>
