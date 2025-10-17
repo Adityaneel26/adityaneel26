@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aditya-neel" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:adityaneel26@gmail.com">
+  <a href="mailto:adityaneel555@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Adityaneel26&style=for-the-badge&color=blue" alt="profile views" />
@@ -22,7 +22,7 @@ I'm a **Computer Engineering Student** passionate about building modern web apps
 - 🌱 Currently Learning: Advanced Java, REST APIs, React  
 - ⚙️ Interested In: Full Stack Web Development  
 - 💬 Ask Me About: Java, JSP, React, Node.js, and MongoDB  
-- 📫 Reach Me At: **adityaneel26@gmail.com**  
+- 📫 Reach Me At: **adityaneel555@gmail.com**  
 
 ---
 
