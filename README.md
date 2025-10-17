@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-<img src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183" alt="Aditya Neel Banner" width="100%" height="20%"  />
+<img src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183" alt="Aditya Neel Banner" width="100%" height="902" />
 
 <h1 align="center">Hi 👋, I'm Aditya Neel</h1>
 <h3 align="center">Java & MERN Stack Developer | Full Stack Learner 🚀</h3>
