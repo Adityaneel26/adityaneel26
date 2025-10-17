@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="YOUR_NEW_GITHUB_IMAGE_URL_HERE"
+    src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183"
     alt="Aditya Neel Banner"
     style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; object-fit: contain; object-position: center;"
   />
