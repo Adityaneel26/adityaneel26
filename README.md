@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/525b5502-4456-4ed3-b05e-755a5b5bb183" alt="Aditya Neel Banner" width="100%" />
+  <img
+    src="YOUR_NEW_GITHUB_IMAGE_URL_HERE"
+    alt="Aditya Neel Banner"
+    style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; object-fit: contain; object-position: center;"
+  />
 </p>
 <h1 align="center">Hi 👋, I'm Aditya Neel</h1>
 <h3 align="center">Java & MERN Stack Developer | Full Stack Learner 🚀</h3>
