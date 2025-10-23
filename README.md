@@ -3,7 +3,7 @@
 <h3 align="center">Java & MERN Stack Developer | Full Stack Learner 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-neel" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-neel-9681b1385" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityaneel555@gmail.com">
